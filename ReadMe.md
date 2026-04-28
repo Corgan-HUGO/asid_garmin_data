@@ -14,4 +14,5 @@ synchronization pipeline used to align physiological and spatial records for
 downstream analysis and visualization.
 
 ## Use the web app to explore the data
+<img src="https://raw.githubusercontent.com/<corgan-hugo>/<repo>/main/media/asid_garminVizApp-hero.png" width="50%" />
 **Link:** [ASID Garmin Data App](https://asid-garmin-viz.vercel.app/)
