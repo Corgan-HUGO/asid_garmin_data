@@ -12,3 +12,6 @@ Both raw device outputs (e.g., .FIT, .GPX) and processed, analysis-ready
 datasets are included. The processed data reflects the transformation and
 synchronization pipeline used to align physiological and spatial records for
 downstream analysis and visualization.
+
+## Use the web app to explore the data
+**Link:** [ASID Garmin Data App](https://asid-garmin-viz.vercel.app/)
